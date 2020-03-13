@@ -12,3 +12,17 @@ C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi\Senai.Gufi.WebApi.Aman
 C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.pdb
 C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.dll
 C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.pdb
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.deps.json
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.runtimeconfig.json
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.dll
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.pdb
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.RazorAssemblyInfo.cache
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.RazorAssemblyInfo.cs
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.AssemblyInfo.cs
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.RazorTargetAssemblyInfo.cache
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.dll
+C:\Users\40349113874\Documents\Repositorios Leonardo\Gufi_Manha\Senai.Gufi.WebApi.Amanha\Senai.Gufi.WebApi.Amanha\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.Amanha.pdb
